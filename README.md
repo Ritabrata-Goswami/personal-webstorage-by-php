@@ -1,0 +1,1 @@
+This is my personal web storage application that was build by PHP, AJAX, MySQL. In this application you can store txt,mp4,jpg,jpeg,png,pdf extensions. The files can also have download option and descriptions can be edited. Apart from this you can also save your personal notes on this application.  
